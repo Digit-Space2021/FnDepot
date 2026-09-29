@@ -9,7 +9,7 @@
       "display_name": "FnBlackboard",
       "desc": "飞牛小黑板 - 适用于 fnOS 的第三方轻量笔记、任务与多人协作文档工具。",
       "platform": ["x86", "arm"],
-      "categories": ["效率工具"],
+      "categories": ["生活服务"],
       "icon_url": "https://raw.githubusercontent.com/Digit-Space2021/FnBlackboard/main/%E9%A3%9E%E7%89%9B%E5%B0%8F%E9%BB%91%E6%9D%BF.png",
       "run_as": "package",
       "install_type": "",
