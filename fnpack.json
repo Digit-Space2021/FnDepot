@@ -1,7 +1,7 @@
 {
   "schema_version": "2",
   "source_info": {
-    "name": "Digit-Space2021 的应用源",
+    "name": "数之空间",
     "author": "Digit-Space2021"
   },
   "apps": {
@@ -11,6 +11,9 @@
       "platform": ["x86", "arm"],
       "categories": ["生活服务"],
       "icon_url": "https://raw.githubusercontent.com/Digit-Space2021/FnBlackboard/main/%E9%A3%9E%E7%89%9B%E5%B0%8F%E9%BB%91%E6%9D%BF.png",
+      "preview_urls": [
+        "https://raw.githubusercontent.com/Digit-Space2021/FnBlackboard/main/Preview/01.png"
+      ],
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
@@ -18,10 +21,24 @@
         "0.3.12": {
           "packages": {
             "x86": {
-              "download_url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.3.12/FnBlackboard_0.3.12_x86.fpk"
+              "download_url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.4.0/FnBlackboard_0.3.12_x86.fpk",
+              "size": 5929
             },
             "arm": {
-              "download_url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.3.12/FnBlackboard_0.3.12_arm.fpk"
+              "download_url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.4.0/FnBlackboard_0.3.12_arm.fpk",
+              "size": 5627
+            }
+          }
+        },
+        "0.3.1": {
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.3.12/FnBlackboard_0.3.1_x86.fpk",
+              "size": 26633830
+            },
+            "arm": {
+              "download_url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.3.12/FnBlackboard_0.3.1_arm.fpk",
+              "size": 24117248
             }
           }
         }
