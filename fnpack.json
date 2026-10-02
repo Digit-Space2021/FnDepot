@@ -36,23 +36,23 @@
           "packages": {
             "x86": {
               "download_url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.3.12/FnBlackboard_0.3.12_x86.fpk",
-              "size": 6071296
+              "size": 6070744
             },
             "arm": {
-              "download_url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.4.0/FnBlackboard_0.3.12_arm.fpk",
-              "size": 5762048
+              "download_url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.3.12/FnBlackboard_0.3.12_arm.fpk",
+              "size": 5761498
             }
           }
         },
         "0.3.2": {
           "packages": {
             "x86": {
-              "download_url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.3.12/FnBlackboard_0.3.2_x86.fpk",
-              "size": 6029312
+              "download_url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.3.2/FnBlackboard_0.3.2_x86.fpk",
+              "size": 6031789
             },
             "arm": {
-              "download_url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.3.12/FnBlackboard_0.3.2_arm.fpk",
-              "size": 5714739
+              "download_url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.3.2/FnBlackboard_0.3.2_arm.fpk",
+              "size": 5719339
             }
           }
         }
