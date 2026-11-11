@@ -20,6 +20,18 @@
       "install_type": "",
       "is_docker": false,
       "releases": {
+        "0.5.0": {
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.5.0/FnBlackboard_0.5.0_x86.fpk",
+              "size": 8090540
+            },
+            "arm": {
+              "download_url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.5.0/FnBlackboard_0.5.0_arm.fpk",
+              "size": 7640202
+            }
+          }
+        },
         "0.4.5": {
           "packages": {
             "x86": {
