@@ -7,19 +7,33 @@
   "apps": {
     "fnblackboard": {
       "display_name": "FnBlackboard",
-      "desc": "飞牛小黑板 - 适用于 fnOS 的第三方轻量笔记、任务与多人协作文档工具。",
+      "desc": "喵咪小黑板 · Mewmi Board - 适用于 fnOS 的第三方轻量笔记、任务与多人协作文档工具。",
       "platform": ["x86", "arm"],
       "categories": ["生活服务"],
       "icon_url": "https://raw.githubusercontent.com/Digit-Space2021/FnBlackboard/main/%E9%A3%9E%E7%89%9B%E5%B0%8F%E9%BB%91%E6%9D%BF.png",
       "preview_urls": [
-        "https://raw.githubusercontent.com/Digit-Space2021/FnBlackboard/main/Preview/01.png",
-        "https://raw.githubusercontent.com/Digit-Space2021/FnBlackboard/main/Preview/02.png",
-        "https://raw.githubusercontent.com/Digit-Space2021/FnBlackboard/main/Preview/03.png"
+        "https://gitee.com/Digit_Space2021/MewmiBoard/raw/master/evergreen-v2/zh-CN/01-brand.webp",
+        "https://gitee.com/Digit_Space2021/MewmiBoard/raw/master/evergreen-v2/zh-CN/02-capture-action.webp",
+        "https://gitee.com/Digit_Space2021/MewmiBoard/raw/master/evergreen-v2/zh-CN/03-shared-spaces.webp",
+        "https://gitee.com/Digit_Space2021/MewmiBoard/raw/master/evergreen-v2/zh-CN/04-lasting-memory.webp",
+        "https://gitee.com/Digit_Space2021/MewmiBoard/raw/master/evergreen-v2/zh-CN/05-future-vision.webp"
       ],
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
       "releases": {
+        "0.5.6": {
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/Digit-Space2021/MewmiBoard/releases/download/v0.5.6/MewmiBoard_0.5.6_x86.fpk",
+              "size": 8165478
+            },
+            "arm": {
+              "download_url": "https://github.com/Digit-Space2021/MewmiBoard/releases/download/v0.5.6/MewmiBoard_0.5.6_arm.fpk",
+              "size": 7708501
+            }
+          }
+        },
         "0.5.0": {
           "packages": {
             "x86": {
