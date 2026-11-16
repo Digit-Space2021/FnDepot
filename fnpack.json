@@ -18,6 +18,10 @@
         "https://gitee.com/Digit_Space2021/MewmiBoard/raw/master/evergreen-v2/zh-CN/04-lasting-memory.webp",
         "https://gitee.com/Digit_Space2021/MewmiBoard/raw/master/evergreen-v2/zh-CN/05-future-vision.webp"
       ],
+      "maintainer": "Digit-Space2021",
+      "maintainer_url": "https://github.com/Digit-Space2021/MewmiBoard",
+      "distributor": "Digit-Space2021",
+      "distributor_url": "https://github.com/Digit-Space2021/MewmiBoard",
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
